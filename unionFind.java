@@ -32,3 +32,5 @@ public class unionFind {
         System.out.println(find.connected(4, 2));
     }
 }
+
+//union operator is expensive (time consuming)  It is quadratic time algorithm
